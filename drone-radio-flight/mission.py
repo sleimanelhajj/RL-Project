@@ -42,7 +42,7 @@ def radio_trace(seed, kind):
 
 
 class Worlds:
-    def __init__(self, ids, radios, flight_factory=Flight):
+    def __init__(self, ids, radios, flight_factory=Flight, *, event_radio=False):
         self.n = len(ids)
         self.world = np.arange(self.n)
         self.own = np.zeros((self.n, DRONES, GRID * GRID), dtype=np.int16)
@@ -78,6 +78,12 @@ class Worlds:
         self.last_cells = np.full((self.n, DRONES, 8), -1, int)
         self.last_stamp = np.zeros_like(self.last_cells)
         self.last_slot = np.zeros((self.n, DRONES), int)
+        self.event_radio = event_radio
+        self.new_scan_events = tuple(np.empty(0, dtype=int) for _ in range(5))
+        if event_radio:
+            self.last_delivered_tick = np.zeros((self.n, DRONES, DRONES), int)
+            # Counts source observations overwritten before a given neighbor received them.
+            self.evicted_unseen = np.zeros_like(self.last_delivered_tick)
         self.t = 0
         self.rr = self.world[:, None]
         self.aa = np.arange(DRONES)[None, :]
@@ -137,9 +143,15 @@ class Worlds:
             self.team[rows, chosen] = True
             self.team_stamp[rows, chosen] = self.t
             slot = self.last_slot[rows, drones]
+            if self.event_radio:
+                overwritten = self.last_stamp[rows, drones, slot]
+                lost = overwritten[:, None] > self.last_delivered_tick[rows, drones]
+                lost &= np.arange(DRONES) != drones[:, None]
+                self.evicted_unseen[rows, drones] += lost
             self.last_cells[rows, drones, slot] = chosen
             self.last_stamp[rows, drones, slot] = self.t
             self.last_slot[rows, drones] = (slot + 1) % self.last_cells.shape[-1]
+        events = []
         for link, (src, dst) in enumerate(LINKS):
             stamps = self.last_stamp[:, src]
             count = np.count_nonzero(stamps, axis=-1)
@@ -149,6 +161,21 @@ class Worlds:
             self.received += np.where(deliver & (count > 0), 4 + 4 * count, 0)
             row, packet = np.nonzero(deliver[:, None] & (stamps > 0))
             np.maximum.at(self.remote[:, dst], (row, self.last_cells[row, src, packet]), stamps[row, packet])
+            if self.event_radio:
+                # Each successful slot delivers the whole current source ring. In this
+                # ordered, zero-transport-delay channel, a per-link watermark therefore
+                # deduplicates retransmissions while retaining independent revisits.
+                watermark = self.last_delivered_tick[:, src, dst]
+                unseen = stamps[row, packet] > watermark[row]
+                r, p = row[unseen], packet[unseen]
+                if len(r):
+                    ticks = stamps[r, p]
+                    events.append((r, np.full_like(r, dst), np.full_like(r, src),
+                                   self.last_cells[r, src, p], ticks))
+                    np.maximum.at(watermark, r, ticks)
+        if self.event_radio:
+            self.new_scan_events = (tuple(np.concatenate(column) for column in zip(*events))
+                                    if events else tuple(np.empty(0, dtype=int) for _ in range(5)))
         distance = np.linalg.norm(xy - self.target()[:, None], axis=-1)
         detected = np.any(searching & (distance <= RADIUS) & (self.detectors[self.t - 1] < .75), axis=1)
         contact = getattr(self.flight, "contact", False)

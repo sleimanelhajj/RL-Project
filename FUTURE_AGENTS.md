@@ -46,3 +46,5 @@ The scripts use deterministic seed ranges for training, validation, and holdout 
 4. Compare PPO/MAPPO, recurrent MAPPO, SAC or TD3 where the action space is made continuous, and the fixed maneuver under identical seeds.
 5. Test robustness to wind, target drift, sensor range, radio-loss rate, and obstacle layouts.
 
+
+Latest experiment and reproduction instructions: [Event-aware communication](drone-radio-flight/RADIO_EXPERIMENTS.md).

@@ -20,12 +20,7 @@ class LocalSearch:
     def waypoint_score(self, w, log_mass, distance, travel):
         return log_mass - travel * distance
 
-    def __call__(self,w):
-        scale,radius,penalty,travel,width,decay=self.weights
-        xy=w.flight.pos[...,:2]
-        d2=((xy[:,:,None]-CENTERS)**2).sum(-1)
-        self.log_evidence *= np.exp(-1/decay)
-        self.log_evidence += self.scanned[:,:,None]*np.exp(-d2/(2*radius**2))
+    def teammate_evidence(self,w,radius,decay):
         # Received scan timestamps are the only source of teammate evidence.
         rows,agents,cells=np.nonzero(w.remote>self.last_remote)
         if len(rows):
@@ -35,9 +30,18 @@ class LocalSearch:
             kernel*=np.exp(-age/decay[rows,0,0])[:,None]
             np.add.at(self.log_evidence,(rows,agents),kernel)
         self.last_remote[:]=w.remote
+        return 0.
+
+    def __call__(self,w):
+        scale,radius,penalty,travel,width,decay=self.weights
+        xy=w.flight.pos[...,:2]
+        d2=((xy[:,:,None]-CENTERS)**2).sum(-1)
+        self.log_evidence *= np.exp(-1/decay)
+        self.log_evidence += self.scanned[:,:,None]*np.exp(-d2/(2*radius**2))
+        remote_evidence = self.teammate_evidence(w, radius, decay)
         center=w.forecast()[:,None,None,:]
         prior=((CENTERS-center)**2).sum(-1)/(2*scale**2)
-        score=self.waypoint_score(w, -prior-penalty*self.log_evidence, np.sqrt(d2), travel)
+        score=self.waypoint_score(w, -prior-penalty*(self.log_evidence+remote_evidence), np.sqrt(d2), travel)
         left=w.report[:,0,None,None]-width
         right=w.report[:,0,None,None]+width
         x=CENTERS[:,0]
@@ -85,4 +89,5 @@ if __name__=="__main__":
     else:
         weights=train()
         evaluate("local-rl",lambda n:LocalSearch(n,weights))
+
 
