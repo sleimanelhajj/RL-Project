@@ -1,0 +1,301 @@
+policy,seed,radio,found,crash,time_steps,return
+Tuned sweep,432000,reliable,1.0,0.0,5.0,0.995
+Tuned sweep,432001,scattered,1.0,0.0,10.0,0.99
+Tuned sweep,432002,burst5,1.0,0.0,13.0,0.987
+Tuned sweep,432003,burst25,1.0,0.0,14.0,0.986
+Tuned sweep,432004,off,1.0,0.0,20.0,0.98
+Tuned sweep,432005,reliable,1.0,0.0,25.0,0.975
+Tuned sweep,432006,scattered,0.0,0.0,100.0,-0.10000000000000007
+Tuned sweep,432007,burst5,1.0,0.0,22.0,0.978
+Tuned sweep,432008,burst25,1.0,0.0,37.0,0.963
+Tuned sweep,432009,off,1.0,0.0,48.0,0.952
+Tuned sweep,432010,reliable,0.0,0.0,100.0,-0.10000000000000007
+Tuned sweep,432011,scattered,1.0,0.0,34.0,0.966
+Tuned sweep,432012,burst5,0.0,0.0,100.0,-0.10000000000000007
+Tuned sweep,432013,burst25,0.0,0.0,100.0,-0.10000000000000007
+Tuned sweep,432014,off,0.0,0.0,100.0,-0.10000000000000007
+Tuned sweep,432015,reliable,1.0,0.0,100.0,0.8999999999999999
+Tuned sweep,432016,scattered,1.0,0.0,43.0,0.957
+Tuned sweep,432017,burst5,1.0,0.0,25.0,0.975
+Tuned sweep,432018,burst25,1.0,0.0,47.0,0.953
+Tuned sweep,432019,off,1.0,0.0,33.0,0.967
+Tuned sweep,432020,reliable,1.0,0.0,24.0,0.976
+Tuned sweep,432021,scattered,1.0,0.0,3.0,0.997
+Tuned sweep,432022,burst5,1.0,0.0,30.0,0.97
+Tuned sweep,432023,burst25,1.0,0.0,21.0,0.979
+Tuned sweep,432024,off,1.0,0.0,32.0,0.968
+Tuned sweep,432025,reliable,1.0,0.0,42.0,0.958
+Tuned sweep,432026,scattered,1.0,0.0,44.0,0.956
+Tuned sweep,432027,burst5,1.0,0.0,43.0,0.957
+Tuned sweep,432028,burst25,1.0,0.0,41.0,0.959
+Tuned sweep,432029,off,1.0,0.0,29.0,0.971
+Tuned sweep,432030,reliable,1.0,0.0,33.0,0.967
+Tuned sweep,432031,scattered,1.0,0.0,22.0,0.978
+Tuned sweep,432032,burst5,1.0,0.0,51.0,0.949
+Tuned sweep,432033,burst25,1.0,0.0,57.0,0.943
+Tuned sweep,432034,off,1.0,0.0,93.0,0.9069999999999999
+Tuned sweep,432035,reliable,1.0,0.0,57.0,0.943
+Tuned sweep,432036,scattered,1.0,0.0,28.0,0.972
+Tuned sweep,432037,burst5,1.0,0.0,22.0,0.978
+Tuned sweep,432038,burst25,1.0,0.0,40.0,0.96
+Tuned sweep,432039,off,1.0,0.0,47.0,0.953
+Tuned sweep,432040,reliable,1.0,0.0,40.0,0.96
+Tuned sweep,432041,scattered,1.0,0.0,37.0,0.963
+Tuned sweep,432042,burst5,1.0,0.0,40.0,0.96
+Tuned sweep,432043,burst25,1.0,0.0,21.0,0.979
+Tuned sweep,432044,off,1.0,0.0,28.0,0.972
+Tuned sweep,432045,reliable,1.0,0.0,13.0,0.987
+Tuned sweep,432046,scattered,1.0,0.0,60.0,0.94
+Tuned sweep,432047,burst5,1.0,0.0,43.0,0.957
+Tuned sweep,432048,burst25,1.0,0.0,35.0,0.965
+Tuned sweep,432049,off,1.0,0.0,36.0,0.964
+Default report sweep,432000,reliable,1.0,0.0,87.0,0.9129999999999999
+Default report sweep,432001,scattered,1.0,0.0,8.0,0.992
+Default report sweep,432002,burst5,1.0,0.0,10.0,0.99
+Default report sweep,432003,burst25,1.0,0.0,11.0,0.989
+Default report sweep,432004,off,1.0,0.0,19.0,0.981
+Default report sweep,432005,reliable,1.0,0.0,12.0,0.988
+Default report sweep,432006,scattered,1.0,0.0,41.0,0.959
+Default report sweep,432007,burst5,1.0,0.0,19.0,0.981
+Default report sweep,432008,burst25,1.0,0.0,23.0,0.977
+Default report sweep,432009,off,1.0,0.0,50.0,0.95
+Default report sweep,432010,reliable,0.0,0.0,100.0,-0.10000000000000007
+Default report sweep,432011,scattered,1.0,0.0,29.0,0.971
+Default report sweep,432012,burst5,1.0,0.0,17.0,0.983
+Default report sweep,432013,burst25,0.0,0.0,100.0,-0.10000000000000007
+Default report sweep,432014,off,1.0,0.0,63.0,0.9369999999999999
+Default report sweep,432015,reliable,1.0,0.0,14.0,0.986
+Default report sweep,432016,scattered,1.0,0.0,44.0,0.956
+Default report sweep,432017,burst5,1.0,0.0,5.0,0.995
+Default report sweep,432018,burst25,1.0,0.0,32.0,0.968
+Default report sweep,432019,off,0.0,0.0,100.0,-0.10000000000000007
+Default report sweep,432020,reliable,1.0,0.0,13.0,0.987
+Default report sweep,432021,scattered,1.0,0.0,91.0,0.9089999999999999
+Default report sweep,432022,burst5,1.0,0.0,28.0,0.972
+Default report sweep,432023,burst25,1.0,0.0,17.0,0.983
+Default report sweep,432024,off,1.0,0.0,22.0,0.978
+Default report sweep,432025,reliable,1.0,0.0,99.0,0.9009999999999999
+Default report sweep,432026,scattered,1.0,0.0,37.0,0.963
+Default report sweep,432027,burst5,1.0,0.0,40.0,0.96
+Default report sweep,432028,burst25,1.0,0.0,100.0,0.8999999999999999
+Default report sweep,432029,off,1.0,0.0,18.0,0.982
+Default report sweep,432030,reliable,1.0,0.0,21.0,0.979
+Default report sweep,432031,scattered,1.0,0.0,93.0,0.9069999999999999
+Default report sweep,432032,burst5,1.0,0.0,29.0,0.971
+Default report sweep,432033,burst25,1.0,0.0,47.0,0.953
+Default report sweep,432034,off,1.0,0.0,5.0,0.995
+Default report sweep,432035,reliable,1.0,0.0,42.0,0.958
+Default report sweep,432036,scattered,1.0,0.0,19.0,0.981
+Default report sweep,432037,burst5,1.0,0.0,17.0,0.983
+Default report sweep,432038,burst25,1.0,0.0,26.0,0.974
+Default report sweep,432039,off,1.0,0.0,42.0,0.958
+Default report sweep,432040,reliable,1.0,0.0,39.0,0.961
+Default report sweep,432041,scattered,1.0,0.0,27.0,0.973
+Default report sweep,432042,burst5,1.0,0.0,27.0,0.973
+Default report sweep,432043,burst25,1.0,0.0,14.0,0.986
+Default report sweep,432044,off,1.0,0.0,15.0,0.985
+Default report sweep,432045,reliable,1.0,0.0,5.0,0.995
+Default report sweep,432046,scattered,1.0,0.0,43.0,0.957
+Default report sweep,432047,burst5,1.0,0.0,32.0,0.968
+Default report sweep,432048,burst25,1.0,0.0,23.0,0.977
+Default report sweep,432049,off,1.0,0.0,28.0,0.972
+Sector sweep,432000,reliable,1.0,0.0,27.0,0.973
+Sector sweep,432001,scattered,0.0,0.0,100.0,-0.10000000000000007
+Sector sweep,432002,burst5,1.0,0.0,23.0,0.977
+Sector sweep,432003,burst25,0.0,0.0,100.0,-0.10000000000000007
+Sector sweep,432004,off,1.0,0.0,37.0,0.963
+Sector sweep,432005,reliable,1.0,0.0,32.0,0.968
+Sector sweep,432006,scattered,0.0,0.0,100.0,-0.10000000000000007
+Sector sweep,432007,burst5,0.0,0.0,100.0,-0.10000000000000007
+Sector sweep,432008,burst25,1.0,0.0,32.0,0.968
+Sector sweep,432009,off,1.0,0.0,50.0,0.95
+Sector sweep,432010,reliable,1.0,0.0,54.0,0.946
+Sector sweep,432011,scattered,1.0,0.0,39.0,0.961
+Sector sweep,432012,burst5,1.0,0.0,18.0,0.982
+Sector sweep,432013,burst25,1.0,0.0,55.0,0.945
+Sector sweep,432014,off,1.0,0.0,88.0,0.9119999999999999
+Sector sweep,432015,reliable,1.0,0.0,21.0,0.979
+Sector sweep,432016,scattered,1.0,0.0,77.0,0.9229999999999999
+Sector sweep,432017,burst5,1.0,0.0,19.0,0.981
+Sector sweep,432018,burst25,1.0,0.0,28.0,0.972
+Sector sweep,432019,off,1.0,0.0,39.0,0.961
+Sector sweep,432020,reliable,0.0,0.0,100.0,-0.10000000000000007
+Sector sweep,432021,scattered,1.0,0.0,10.0,0.99
+Sector sweep,432022,burst5,0.0,0.0,100.0,-0.10000000000000007
+Sector sweep,432023,burst25,0.0,0.0,100.0,-0.10000000000000007
+Sector sweep,432024,off,1.0,0.0,23.0,0.977
+Sector sweep,432025,reliable,1.0,0.0,64.0,0.9359999999999999
+Sector sweep,432026,scattered,1.0,0.0,59.0,0.941
+Sector sweep,432027,burst5,1.0,0.0,50.0,0.95
+Sector sweep,432028,burst25,1.0,0.0,59.0,0.941
+Sector sweep,432029,off,1.0,0.0,18.0,0.982
+Sector sweep,432030,reliable,0.0,0.0,100.0,-0.10000000000000007
+Sector sweep,432031,scattered,1.0,0.0,47.0,0.953
+Sector sweep,432032,burst5,1.0,0.0,46.0,0.954
+Sector sweep,432033,burst25,1.0,0.0,79.0,0.9209999999999999
+Sector sweep,432034,off,1.0,0.0,1.0,0.999
+Sector sweep,432035,reliable,1.0,0.0,50.0,0.95
+Sector sweep,432036,scattered,1.0,0.0,32.0,0.968
+Sector sweep,432037,burst5,1.0,0.0,23.0,0.977
+Sector sweep,432038,burst25,1.0,0.0,32.0,0.968
+Sector sweep,432039,off,1.0,0.0,88.0,0.9119999999999999
+Sector sweep,432040,reliable,0.0,0.0,100.0,-0.10000000000000007
+Sector sweep,432041,scattered,1.0,0.0,54.0,0.946
+Sector sweep,432042,burst5,1.0,0.0,23.0,0.977
+Sector sweep,432043,burst25,1.0,0.0,27.0,0.973
+Sector sweep,432044,off,0.0,0.0,100.0,-0.10000000000000007
+Sector sweep,432045,reliable,1.0,0.0,4.0,0.996
+Sector sweep,432046,scattered,1.0,0.0,41.0,0.959
+Sector sweep,432047,burst5,1.0,0.0,74.0,0.9259999999999999
+Sector sweep,432048,burst25,1.0,0.0,32.0,0.968
+Sector sweep,432049,off,1.0,0.0,32.0,0.968
+Sector greedy,432000,reliable,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432001,scattered,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432002,burst5,1.0,0.0,58.0,0.942
+Sector greedy,432003,burst25,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432004,off,1.0,0.0,10.0,0.99
+Sector greedy,432005,reliable,1.0,0.0,67.0,0.9329999999999999
+Sector greedy,432006,scattered,1.0,0.0,18.0,0.982
+Sector greedy,432007,burst5,1.0,0.0,97.0,0.9029999999999999
+Sector greedy,432008,burst25,1.0,0.0,29.0,0.971
+Sector greedy,432009,off,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432010,reliable,1.0,0.0,10.0,0.99
+Sector greedy,432011,scattered,1.0,0.0,10.0,0.99
+Sector greedy,432012,burst5,1.0,0.0,27.0,0.973
+Sector greedy,432013,burst25,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432014,off,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432015,reliable,1.0,0.0,7.0,0.993
+Sector greedy,432016,scattered,1.0,0.0,19.0,0.981
+Sector greedy,432017,burst5,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432018,burst25,1.0,0.0,11.0,0.989
+Sector greedy,432019,off,1.0,0.0,7.0,0.993
+Sector greedy,432020,reliable,1.0,0.0,23.0,0.977
+Sector greedy,432021,scattered,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432022,burst5,1.0,0.0,26.0,0.974
+Sector greedy,432023,burst25,1.0,0.0,49.0,0.951
+Sector greedy,432024,off,1.0,0.0,3.0,0.997
+Sector greedy,432025,reliable,1.0,0.0,22.0,0.978
+Sector greedy,432026,scattered,1.0,0.0,29.0,0.971
+Sector greedy,432027,burst5,1.0,0.0,66.0,0.9339999999999999
+Sector greedy,432028,burst25,1.0,0.0,17.0,0.983
+Sector greedy,432029,off,1.0,0.0,6.0,0.994
+Sector greedy,432030,reliable,1.0,0.0,17.0,0.983
+Sector greedy,432031,scattered,1.0,0.0,11.0,0.989
+Sector greedy,432032,burst5,1.0,0.0,11.0,0.989
+Sector greedy,432033,burst25,1.0,0.0,55.0,0.945
+Sector greedy,432034,off,1.0,0.0,54.0,0.946
+Sector greedy,432035,reliable,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432036,scattered,1.0,0.0,9.0,0.991
+Sector greedy,432037,burst5,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432038,burst25,1.0,0.0,7.0,0.993
+Sector greedy,432039,off,1.0,0.0,22.0,0.978
+Sector greedy,432040,reliable,1.0,0.0,17.0,0.983
+Sector greedy,432041,scattered,1.0,0.0,16.0,0.984
+Sector greedy,432042,burst5,1.0,0.0,8.0,0.992
+Sector greedy,432043,burst25,1.0,0.0,29.0,0.971
+Sector greedy,432044,off,1.0,0.0,24.0,0.976
+Sector greedy,432045,reliable,1.0,0.0,27.0,0.973
+Sector greedy,432046,scattered,0.0,0.0,100.0,-0.10000000000000007
+Sector greedy,432047,burst5,1.0,0.0,34.0,0.966
+Sector greedy,432048,burst25,1.0,0.0,48.0,0.952
+Sector greedy,432049,off,1.0,0.0,8.0,0.992
+Radio-aware greedy,432000,reliable,0.0,0.0,100.0,-0.10000000000000007
+Radio-aware greedy,432001,scattered,0.0,1.0,100.0,-1.015
+Radio-aware greedy,432002,burst5,1.0,0.0,58.0,0.942
+Radio-aware greedy,432003,burst25,0.0,1.0,100.0,-1.029
+Radio-aware greedy,432004,off,1.0,0.0,10.0,0.99
+Radio-aware greedy,432005,reliable,0.0,1.0,100.0,-1.049
+Radio-aware greedy,432006,scattered,1.0,0.0,18.0,0.982
+Radio-aware greedy,432007,burst5,0.0,1.0,100.0,-1.0279999999999998
+Radio-aware greedy,432008,burst25,1.0,0.0,29.0,0.971
+Radio-aware greedy,432009,off,0.0,1.0,100.0,-1.0359999999999998
+Radio-aware greedy,432010,reliable,0.0,1.0,100.0,-1.015
+Radio-aware greedy,432011,scattered,1.0,0.0,10.0,0.99
+Radio-aware greedy,432012,burst5,0.0,1.0,100.0,-1.0199999999999998
+Radio-aware greedy,432013,burst25,0.0,1.0,100.0,-1.0299999999999998
+Radio-aware greedy,432014,off,0.0,1.0,100.0,-1.0539999999999998
+Radio-aware greedy,432015,reliable,1.0,0.0,7.0,0.993
+Radio-aware greedy,432016,scattered,1.0,0.0,19.0,0.981
+Radio-aware greedy,432017,burst5,0.0,1.0,100.0,-1.017
+Radio-aware greedy,432018,burst25,1.0,0.0,11.0,0.989
+Radio-aware greedy,432019,off,1.0,0.0,7.0,0.993
+Radio-aware greedy,432020,reliable,1.0,0.0,23.0,0.977
+Radio-aware greedy,432021,scattered,0.0,1.0,100.0,-1.049
+Radio-aware greedy,432022,burst5,1.0,0.0,26.0,0.974
+Radio-aware greedy,432023,burst25,1.0,0.0,47.0,0.953
+Radio-aware greedy,432024,off,1.0,0.0,3.0,0.997
+Radio-aware greedy,432025,reliable,1.0,0.0,17.0,0.983
+Radio-aware greedy,432026,scattered,1.0,0.0,29.0,0.971
+Radio-aware greedy,432027,burst5,1.0,0.0,40.0,0.96
+Radio-aware greedy,432028,burst25,0.0,1.0,100.0,-1.025
+Radio-aware greedy,432029,off,1.0,0.0,6.0,0.994
+Radio-aware greedy,432030,reliable,1.0,0.0,17.0,0.983
+Radio-aware greedy,432031,scattered,1.0,0.0,11.0,0.989
+Radio-aware greedy,432032,burst5,1.0,0.0,11.0,0.989
+Radio-aware greedy,432033,burst25,1.0,0.0,55.0,0.945
+Radio-aware greedy,432034,off,1.0,0.0,54.0,0.946
+Radio-aware greedy,432035,reliable,0.0,1.0,100.0,-1.029
+Radio-aware greedy,432036,scattered,1.0,0.0,9.0,0.991
+Radio-aware greedy,432037,burst5,1.0,0.0,71.0,0.9289999999999999
+Radio-aware greedy,432038,burst25,1.0,0.0,7.0,0.993
+Radio-aware greedy,432039,off,1.0,0.0,22.0,0.978
+Radio-aware greedy,432040,reliable,1.0,0.0,17.0,0.983
+Radio-aware greedy,432041,scattered,1.0,0.0,16.0,0.984
+Radio-aware greedy,432042,burst5,1.0,0.0,8.0,0.992
+Radio-aware greedy,432043,burst25,1.0,0.0,29.0,0.971
+Radio-aware greedy,432044,off,1.0,0.0,62.0,0.938
+Radio-aware greedy,432045,reliable,1.0,0.0,27.0,0.973
+Radio-aware greedy,432046,scattered,0.0,1.0,100.0,-1.097
+Radio-aware greedy,432047,burst5,1.0,0.0,34.0,0.966
+Radio-aware greedy,432048,burst25,1.0,0.0,48.0,0.952
+Radio-aware greedy,432049,off,1.0,0.0,8.0,0.992
+FF MAPPO (101),432000,reliable,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432001,scattered,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432002,burst5,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432003,burst25,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432004,off,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432005,reliable,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432006,scattered,1.0,0.0,19.0,0.981
+FF MAPPO (101),432007,burst5,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432008,burst25,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432009,off,1.0,0.0,92.0,0.9079999999999999
+FF MAPPO (101),432010,reliable,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432011,scattered,1.0,0.0,11.0,0.989
+FF MAPPO (101),432012,burst5,1.0,0.0,6.0,0.994
+FF MAPPO (101),432013,burst25,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432014,off,1.0,0.0,83.0,0.9169999999999999
+FF MAPPO (101),432015,reliable,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432016,scattered,1.0,0.0,19.0,0.981
+FF MAPPO (101),432017,burst5,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432018,burst25,1.0,0.0,11.0,0.989
+FF MAPPO (101),432019,off,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432020,reliable,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432021,scattered,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432022,burst5,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432023,burst25,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432024,off,1.0,0.0,5.0,0.995
+FF MAPPO (101),432025,reliable,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432026,scattered,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432027,burst5,1.0,0.0,17.0,0.983
+FF MAPPO (101),432028,burst25,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432029,off,1.0,0.0,4.0,0.996
+FF MAPPO (101),432030,reliable,1.0,0.0,41.0,0.959
+FF MAPPO (101),432031,scattered,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432032,burst5,1.0,0.0,11.0,0.989
+FF MAPPO (101),432033,burst25,1.0,0.0,25.0,0.975
+FF MAPPO (101),432034,off,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432035,reliable,1.0,0.0,13.0,0.987
+FF MAPPO (101),432036,scattered,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432037,burst5,1.0,0.0,7.0,0.993
+FF MAPPO (101),432038,burst25,1.0,0.0,6.0,0.994
+FF MAPPO (101),432039,off,1.0,0.0,87.0,0.9129999999999999
+FF MAPPO (101),432040,reliable,1.0,0.0,17.0,0.983
+FF MAPPO (101),432041,scattered,1.0,0.0,39.0,0.961
+FF MAPPO (101),432042,burst5,1.0,0.0,8.0,0.992
+FF MAPPO (101),432043,burst25,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432044,off,1.0,0.0,3.0,0.997
+FF MAPPO (101),432045,reliable,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432046,scattered,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432047,burst5,1.0,0.0,97.0,0.9029999999999999
+FF MAPPO (101),432048,burst25,0.0,0.0,100.0,-0.10000000000000007
+FF MAPPO (101),432049,off,1.0,0.0,9.0,0.991

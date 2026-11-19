@@ -1,0 +1,401 @@
+policy,seed,radio,found,crash,steps_to_find_capped,return
+Fitted Q-learning,778000,reliable,1.0,0.0,41.0,0.959
+Fitted Q-learning,778001,scattered,1.0,0.0,29.0,0.971
+Fitted Q-learning,778002,burst5,1.0,0.0,42.0,0.958
+Fitted Q-learning,778003,burst25,0.0,0.0,100.0,-0.10000000000000007
+Fitted Q-learning,778004,off,1.0,0.0,36.0,0.964
+Fitted Q-learning,778005,reliable,1.0,0.0,41.0,0.959
+Fitted Q-learning,778006,scattered,1.0,0.0,31.0,0.969
+Fitted Q-learning,778007,burst5,1.0,0.0,44.0,0.956
+Fitted Q-learning,778008,burst25,0.0,0.0,100.0,-0.10000000000000007
+Fitted Q-learning,778009,off,1.0,0.0,15.0,0.985
+Fitted Q-learning,778010,reliable,1.0,0.0,12.0,0.988
+Fitted Q-learning,778011,scattered,1.0,0.0,78.0,0.9219999999999999
+Fitted Q-learning,778012,burst5,1.0,0.0,56.0,0.944
+Fitted Q-learning,778013,burst25,1.0,0.0,11.0,0.989
+Fitted Q-learning,778014,off,1.0,0.0,36.0,0.964
+Fitted Q-learning,778015,reliable,1.0,0.0,20.0,0.98
+Fitted Q-learning,778016,scattered,1.0,0.0,16.0,0.984
+Fitted Q-learning,778017,burst5,1.0,0.0,48.0,0.952
+Fitted Q-learning,778018,burst25,0.0,0.0,100.0,-0.10000000000000007
+Fitted Q-learning,778019,off,1.0,0.0,21.0,0.979
+Fitted Q-learning,778020,reliable,1.0,0.0,15.0,0.985
+Fitted Q-learning,778021,scattered,1.0,0.0,89.0,0.9109999999999999
+Fitted Q-learning,778022,burst5,1.0,0.0,43.0,0.957
+Fitted Q-learning,778023,burst25,1.0,0.0,38.0,0.962
+Fitted Q-learning,778024,off,1.0,0.0,82.0,0.9179999999999999
+Fitted Q-learning,778025,reliable,1.0,0.0,44.0,0.956
+Fitted Q-learning,778026,scattered,1.0,0.0,15.0,0.985
+Fitted Q-learning,778027,burst5,1.0,0.0,35.0,0.965
+Fitted Q-learning,778028,burst25,1.0,0.0,24.0,0.976
+Fitted Q-learning,778029,off,1.0,0.0,18.0,0.982
+Fitted Q-learning,778030,reliable,1.0,0.0,7.0,0.993
+Fitted Q-learning,778031,scattered,1.0,0.0,37.0,0.963
+Fitted Q-learning,778032,burst5,1.0,0.0,47.0,0.953
+Fitted Q-learning,778033,burst25,1.0,0.0,63.0,0.9369999999999999
+Fitted Q-learning,778034,off,1.0,0.0,29.0,0.971
+Fitted Q-learning,778035,reliable,0.0,0.0,100.0,-0.10000000000000007
+Fitted Q-learning,778036,scattered,1.0,0.0,44.0,0.956
+Fitted Q-learning,778037,burst5,1.0,0.0,98.0,0.9019999999999999
+Fitted Q-learning,778038,burst25,1.0,0.0,25.0,0.975
+Fitted Q-learning,778039,off,1.0,0.0,36.0,0.964
+Fitted Q-learning,778040,reliable,1.0,0.0,24.0,0.976
+Fitted Q-learning,778041,scattered,1.0,0.0,18.0,0.982
+Fitted Q-learning,778042,burst5,1.0,0.0,66.0,0.9339999999999999
+Fitted Q-learning,778043,burst25,1.0,0.0,9.0,0.991
+Fitted Q-learning,778044,off,1.0,0.0,39.0,0.961
+Fitted Q-learning,778045,reliable,1.0,0.0,4.0,0.996
+Fitted Q-learning,778046,scattered,1.0,0.0,29.0,0.971
+Fitted Q-learning,778047,burst5,1.0,0.0,29.0,0.971
+Fitted Q-learning,778048,burst25,1.0,0.0,27.0,0.973
+Fitted Q-learning,778049,off,1.0,0.0,6.0,0.994
+Fitted Q-learning,778050,reliable,1.0,0.0,14.0,0.986
+Fitted Q-learning,778051,scattered,1.0,0.0,15.0,0.985
+Fitted Q-learning,778052,burst5,1.0,0.0,28.0,0.972
+Fitted Q-learning,778053,burst25,1.0,0.0,30.0,0.97
+Fitted Q-learning,778054,off,0.0,0.0,100.0,-0.10000000000000007
+Fitted Q-learning,778055,reliable,1.0,0.0,10.0,0.99
+Fitted Q-learning,778056,scattered,1.0,0.0,52.0,0.948
+Fitted Q-learning,778057,burst5,1.0,0.0,20.0,0.98
+Fitted Q-learning,778058,burst25,1.0,0.0,18.0,0.982
+Fitted Q-learning,778059,off,1.0,0.0,24.0,0.976
+Fitted Q-learning,778060,reliable,1.0,0.0,46.0,0.954
+Fitted Q-learning,778061,scattered,1.0,0.0,90.0,0.9099999999999999
+Fitted Q-learning,778062,burst5,1.0,0.0,33.0,0.967
+Fitted Q-learning,778063,burst25,0.0,0.0,100.0,-0.10000000000000007
+Fitted Q-learning,778064,off,1.0,0.0,17.0,0.983
+Fitted Q-learning,778065,reliable,1.0,0.0,41.0,0.959
+Fitted Q-learning,778066,scattered,1.0,0.0,23.0,0.977
+Fitted Q-learning,778067,burst5,1.0,0.0,48.0,0.952
+Fitted Q-learning,778068,burst25,1.0,0.0,18.0,0.982
+Fitted Q-learning,778069,off,1.0,0.0,1.0,0.999
+Fitted Q-learning,778070,reliable,1.0,0.0,16.0,0.984
+Fitted Q-learning,778071,scattered,1.0,0.0,44.0,0.956
+Fitted Q-learning,778072,burst5,0.0,0.0,100.0,-0.10000000000000007
+Fitted Q-learning,778073,burst25,1.0,0.0,34.0,0.966
+Fitted Q-learning,778074,off,1.0,0.0,33.0,0.967
+Fitted Q-learning,778075,reliable,1.0,0.0,39.0,0.961
+Fitted Q-learning,778076,scattered,1.0,0.0,27.0,0.973
+Fitted Q-learning,778077,burst5,1.0,0.0,16.0,0.984
+Fitted Q-learning,778078,burst25,1.0,0.0,8.0,0.992
+Fitted Q-learning,778079,off,0.0,0.0,100.0,-0.10000000000000007
+Fitted Q-learning,778080,reliable,0.0,0.0,100.0,-0.10000000000000007
+Fitted Q-learning,778081,scattered,1.0,0.0,34.0,0.966
+Fitted Q-learning,778082,burst5,1.0,0.0,28.0,0.972
+Fitted Q-learning,778083,burst25,1.0,0.0,36.0,0.964
+Fitted Q-learning,778084,off,1.0,0.0,23.0,0.977
+Fitted Q-learning,778085,reliable,1.0,0.0,42.0,0.958
+Fitted Q-learning,778086,scattered,1.0,0.0,20.0,0.98
+Fitted Q-learning,778087,burst5,1.0,0.0,36.0,0.964
+Fitted Q-learning,778088,burst25,1.0,0.0,48.0,0.952
+Fitted Q-learning,778089,off,1.0,0.0,25.0,0.975
+Fitted Q-learning,778090,reliable,1.0,0.0,98.0,0.9019999999999999
+Fitted Q-learning,778091,scattered,1.0,0.0,80.0,0.9199999999999999
+Fitted Q-learning,778092,burst5,1.0,0.0,99.0,0.9009999999999999
+Fitted Q-learning,778093,burst25,1.0,0.0,19.0,0.981
+Fitted Q-learning,778094,off,1.0,0.0,74.0,0.9259999999999999
+Fitted Q-learning,778095,reliable,1.0,0.0,16.0,0.984
+Fitted Q-learning,778096,scattered,1.0,0.0,81.0,0.9189999999999999
+Fitted Q-learning,778097,burst5,1.0,0.0,6.0,0.994
+Fitted Q-learning,778098,burst25,1.0,0.0,46.0,0.954
+Fitted Q-learning,778099,off,1.0,0.0,24.0,0.976
+Fixed scanning option,778000,reliable,1.0,0.0,41.0,0.959
+Fixed scanning option,778001,scattered,1.0,0.0,29.0,0.971
+Fixed scanning option,778002,burst5,1.0,0.0,42.0,0.958
+Fixed scanning option,778003,burst25,0.0,0.0,100.0,-0.10000000000000007
+Fixed scanning option,778004,off,1.0,0.0,36.0,0.964
+Fixed scanning option,778005,reliable,1.0,0.0,41.0,0.959
+Fixed scanning option,778006,scattered,1.0,0.0,34.0,0.966
+Fixed scanning option,778007,burst5,1.0,0.0,44.0,0.956
+Fixed scanning option,778008,burst25,0.0,0.0,100.0,-0.10000000000000007
+Fixed scanning option,778009,off,1.0,0.0,15.0,0.985
+Fixed scanning option,778010,reliable,1.0,0.0,12.0,0.988
+Fixed scanning option,778011,scattered,1.0,0.0,78.0,0.9219999999999999
+Fixed scanning option,778012,burst5,1.0,0.0,56.0,0.944
+Fixed scanning option,778013,burst25,1.0,0.0,11.0,0.989
+Fixed scanning option,778014,off,1.0,0.0,36.0,0.964
+Fixed scanning option,778015,reliable,1.0,0.0,20.0,0.98
+Fixed scanning option,778016,scattered,1.0,0.0,16.0,0.984
+Fixed scanning option,778017,burst5,1.0,0.0,48.0,0.952
+Fixed scanning option,778018,burst25,1.0,0.0,46.0,0.954
+Fixed scanning option,778019,off,1.0,0.0,21.0,0.979
+Fixed scanning option,778020,reliable,1.0,0.0,15.0,0.985
+Fixed scanning option,778021,scattered,1.0,0.0,89.0,0.9109999999999999
+Fixed scanning option,778022,burst5,1.0,0.0,45.0,0.955
+Fixed scanning option,778023,burst25,1.0,0.0,38.0,0.962
+Fixed scanning option,778024,off,1.0,0.0,82.0,0.9179999999999999
+Fixed scanning option,778025,reliable,1.0,0.0,43.0,0.957
+Fixed scanning option,778026,scattered,1.0,0.0,15.0,0.985
+Fixed scanning option,778027,burst5,1.0,0.0,36.0,0.964
+Fixed scanning option,778028,burst25,1.0,0.0,24.0,0.976
+Fixed scanning option,778029,off,1.0,0.0,18.0,0.982
+Fixed scanning option,778030,reliable,1.0,0.0,7.0,0.993
+Fixed scanning option,778031,scattered,1.0,0.0,37.0,0.963
+Fixed scanning option,778032,burst5,1.0,0.0,47.0,0.953
+Fixed scanning option,778033,burst25,1.0,0.0,63.0,0.9369999999999999
+Fixed scanning option,778034,off,1.0,0.0,29.0,0.971
+Fixed scanning option,778035,reliable,0.0,0.0,100.0,-0.10000000000000007
+Fixed scanning option,778036,scattered,1.0,0.0,42.0,0.958
+Fixed scanning option,778037,burst5,1.0,0.0,98.0,0.9019999999999999
+Fixed scanning option,778038,burst25,1.0,0.0,25.0,0.975
+Fixed scanning option,778039,off,0.0,0.0,100.0,-0.10000000000000007
+Fixed scanning option,778040,reliable,1.0,0.0,28.0,0.972
+Fixed scanning option,778041,scattered,1.0,0.0,18.0,0.982
+Fixed scanning option,778042,burst5,1.0,0.0,66.0,0.9339999999999999
+Fixed scanning option,778043,burst25,1.0,0.0,9.0,0.991
+Fixed scanning option,778044,off,1.0,0.0,39.0,0.961
+Fixed scanning option,778045,reliable,1.0,0.0,4.0,0.996
+Fixed scanning option,778046,scattered,1.0,0.0,29.0,0.971
+Fixed scanning option,778047,burst5,1.0,0.0,29.0,0.971
+Fixed scanning option,778048,burst25,1.0,0.0,30.0,0.97
+Fixed scanning option,778049,off,1.0,0.0,6.0,0.994
+Fixed scanning option,778050,reliable,1.0,0.0,18.0,0.982
+Fixed scanning option,778051,scattered,1.0,0.0,15.0,0.985
+Fixed scanning option,778052,burst5,1.0,0.0,28.0,0.972
+Fixed scanning option,778053,burst25,1.0,0.0,30.0,0.97
+Fixed scanning option,778054,off,0.0,0.0,100.0,-0.10000000000000007
+Fixed scanning option,778055,reliable,1.0,0.0,10.0,0.99
+Fixed scanning option,778056,scattered,1.0,0.0,52.0,0.948
+Fixed scanning option,778057,burst5,1.0,0.0,20.0,0.98
+Fixed scanning option,778058,burst25,1.0,0.0,18.0,0.982
+Fixed scanning option,778059,off,1.0,0.0,32.0,0.968
+Fixed scanning option,778060,reliable,1.0,0.0,45.0,0.955
+Fixed scanning option,778061,scattered,1.0,0.0,90.0,0.9099999999999999
+Fixed scanning option,778062,burst5,1.0,0.0,33.0,0.967
+Fixed scanning option,778063,burst25,1.0,0.0,46.0,0.954
+Fixed scanning option,778064,off,1.0,0.0,31.0,0.969
+Fixed scanning option,778065,reliable,1.0,0.0,41.0,0.959
+Fixed scanning option,778066,scattered,1.0,0.0,28.0,0.972
+Fixed scanning option,778067,burst5,1.0,0.0,48.0,0.952
+Fixed scanning option,778068,burst25,0.0,0.0,100.0,-0.10000000000000007
+Fixed scanning option,778069,off,1.0,0.0,1.0,0.999
+Fixed scanning option,778070,reliable,1.0,0.0,16.0,0.984
+Fixed scanning option,778071,scattered,1.0,0.0,57.0,0.943
+Fixed scanning option,778072,burst5,0.0,0.0,100.0,-0.10000000000000007
+Fixed scanning option,778073,burst25,1.0,0.0,38.0,0.962
+Fixed scanning option,778074,off,1.0,0.0,33.0,0.967
+Fixed scanning option,778075,reliable,1.0,0.0,76.0,0.9239999999999999
+Fixed scanning option,778076,scattered,1.0,0.0,27.0,0.973
+Fixed scanning option,778077,burst5,1.0,0.0,16.0,0.984
+Fixed scanning option,778078,burst25,1.0,0.0,8.0,0.992
+Fixed scanning option,778079,off,1.0,0.0,15.0,0.985
+Fixed scanning option,778080,reliable,0.0,0.0,100.0,-0.10000000000000007
+Fixed scanning option,778081,scattered,1.0,0.0,34.0,0.966
+Fixed scanning option,778082,burst5,1.0,0.0,28.0,0.972
+Fixed scanning option,778083,burst25,1.0,0.0,36.0,0.964
+Fixed scanning option,778084,off,1.0,0.0,23.0,0.977
+Fixed scanning option,778085,reliable,1.0,0.0,41.0,0.959
+Fixed scanning option,778086,scattered,1.0,0.0,20.0,0.98
+Fixed scanning option,778087,burst5,1.0,0.0,36.0,0.964
+Fixed scanning option,778088,burst25,1.0,0.0,48.0,0.952
+Fixed scanning option,778089,off,1.0,0.0,26.0,0.974
+Fixed scanning option,778090,reliable,1.0,0.0,98.0,0.9019999999999999
+Fixed scanning option,778091,scattered,1.0,0.0,80.0,0.9199999999999999
+Fixed scanning option,778092,burst5,1.0,0.0,99.0,0.9009999999999999
+Fixed scanning option,778093,burst25,1.0,0.0,33.0,0.967
+Fixed scanning option,778094,off,1.0,0.0,85.0,0.9149999999999999
+Fixed scanning option,778095,reliable,1.0,0.0,16.0,0.984
+Fixed scanning option,778096,scattered,1.0,0.0,96.0,0.9039999999999999
+Fixed scanning option,778097,burst5,1.0,0.0,6.0,0.994
+Fixed scanning option,778098,burst25,1.0,0.0,46.0,0.954
+Fixed scanning option,778099,off,1.0,0.0,24.0,0.976
+Report-centered sweep,778000,reliable,1.0,0.0,41.0,0.959
+Report-centered sweep,778001,scattered,1.0,0.0,30.0,0.97
+Report-centered sweep,778002,burst5,1.0,0.0,39.0,0.961
+Report-centered sweep,778003,burst25,1.0,0.0,25.0,0.975
+Report-centered sweep,778004,off,1.0,0.0,36.0,0.964
+Report-centered sweep,778005,reliable,1.0,0.0,39.0,0.961
+Report-centered sweep,778006,scattered,1.0,0.0,34.0,0.966
+Report-centered sweep,778007,burst5,1.0,0.0,66.0,0.9339999999999999
+Report-centered sweep,778008,burst25,1.0,0.0,97.0,0.9029999999999999
+Report-centered sweep,778009,off,1.0,0.0,18.0,0.982
+Report-centered sweep,778010,reliable,1.0,0.0,12.0,0.988
+Report-centered sweep,778011,scattered,1.0,0.0,44.0,0.956
+Report-centered sweep,778012,burst5,1.0,0.0,55.0,0.945
+Report-centered sweep,778013,burst25,1.0,0.0,23.0,0.977
+Report-centered sweep,778014,off,1.0,0.0,36.0,0.964
+Report-centered sweep,778015,reliable,1.0,0.0,17.0,0.983
+Report-centered sweep,778016,scattered,1.0,0.0,16.0,0.984
+Report-centered sweep,778017,burst5,1.0,0.0,45.0,0.955
+Report-centered sweep,778018,burst25,1.0,0.0,45.0,0.955
+Report-centered sweep,778019,off,1.0,0.0,20.0,0.98
+Report-centered sweep,778020,reliable,1.0,0.0,15.0,0.985
+Report-centered sweep,778021,scattered,1.0,0.0,25.0,0.975
+Report-centered sweep,778022,burst5,1.0,0.0,43.0,0.957
+Report-centered sweep,778023,burst25,1.0,0.0,38.0,0.962
+Report-centered sweep,778024,off,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778025,reliable,1.0,0.0,46.0,0.954
+Report-centered sweep,778026,scattered,1.0,0.0,15.0,0.985
+Report-centered sweep,778027,burst5,1.0,0.0,35.0,0.965
+Report-centered sweep,778028,burst25,1.0,0.0,22.0,0.978
+Report-centered sweep,778029,off,1.0,0.0,18.0,0.982
+Report-centered sweep,778030,reliable,1.0,0.0,11.0,0.989
+Report-centered sweep,778031,scattered,1.0,0.0,34.0,0.966
+Report-centered sweep,778032,burst5,1.0,0.0,49.0,0.951
+Report-centered sweep,778033,burst25,1.0,0.0,60.0,0.94
+Report-centered sweep,778034,off,1.0,0.0,32.0,0.968
+Report-centered sweep,778035,reliable,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778036,scattered,1.0,0.0,43.0,0.957
+Report-centered sweep,778037,burst5,1.0,0.0,89.0,0.9109999999999999
+Report-centered sweep,778038,burst25,1.0,0.0,25.0,0.975
+Report-centered sweep,778039,off,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778040,reliable,1.0,0.0,27.0,0.973
+Report-centered sweep,778041,scattered,1.0,0.0,16.0,0.984
+Report-centered sweep,778042,burst5,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778043,burst25,1.0,0.0,9.0,0.991
+Report-centered sweep,778044,off,1.0,0.0,42.0,0.958
+Report-centered sweep,778045,reliable,1.0,0.0,3.0,0.997
+Report-centered sweep,778046,scattered,1.0,0.0,33.0,0.967
+Report-centered sweep,778047,burst5,1.0,0.0,37.0,0.963
+Report-centered sweep,778048,burst25,1.0,0.0,27.0,0.973
+Report-centered sweep,778049,off,1.0,0.0,7.0,0.993
+Report-centered sweep,778050,reliable,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778051,scattered,1.0,0.0,15.0,0.985
+Report-centered sweep,778052,burst5,1.0,0.0,24.0,0.976
+Report-centered sweep,778053,burst25,1.0,0.0,30.0,0.97
+Report-centered sweep,778054,off,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778055,reliable,1.0,0.0,10.0,0.99
+Report-centered sweep,778056,scattered,1.0,0.0,52.0,0.948
+Report-centered sweep,778057,burst5,1.0,0.0,30.0,0.97
+Report-centered sweep,778058,burst25,1.0,0.0,18.0,0.982
+Report-centered sweep,778059,off,1.0,0.0,32.0,0.968
+Report-centered sweep,778060,reliable,1.0,0.0,46.0,0.954
+Report-centered sweep,778061,scattered,1.0,0.0,3.0,0.997
+Report-centered sweep,778062,burst5,1.0,0.0,32.0,0.968
+Report-centered sweep,778063,burst25,1.0,0.0,44.0,0.956
+Report-centered sweep,778064,off,1.0,0.0,31.0,0.969
+Report-centered sweep,778065,reliable,1.0,0.0,41.0,0.959
+Report-centered sweep,778066,scattered,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778067,burst5,1.0,0.0,48.0,0.952
+Report-centered sweep,778068,burst25,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778069,off,1.0,0.0,14.0,0.986
+Report-centered sweep,778070,reliable,1.0,0.0,16.0,0.984
+Report-centered sweep,778071,scattered,1.0,0.0,53.0,0.947
+Report-centered sweep,778072,burst5,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778073,burst25,1.0,0.0,50.0,0.95
+Report-centered sweep,778074,off,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778075,reliable,1.0,0.0,39.0,0.961
+Report-centered sweep,778076,scattered,1.0,0.0,26.0,0.974
+Report-centered sweep,778077,burst5,1.0,0.0,11.0,0.989
+Report-centered sweep,778078,burst25,1.0,0.0,7.0,0.993
+Report-centered sweep,778079,off,1.0,0.0,12.0,0.988
+Report-centered sweep,778080,reliable,0.0,0.0,100.0,-0.10000000000000007
+Report-centered sweep,778081,scattered,1.0,0.0,33.0,0.967
+Report-centered sweep,778082,burst5,1.0,0.0,29.0,0.971
+Report-centered sweep,778083,burst25,1.0,0.0,33.0,0.967
+Report-centered sweep,778084,off,1.0,0.0,27.0,0.973
+Report-centered sweep,778085,reliable,1.0,0.0,41.0,0.959
+Report-centered sweep,778086,scattered,1.0,0.0,10.0,0.99
+Report-centered sweep,778087,burst5,1.0,0.0,38.0,0.962
+Report-centered sweep,778088,burst25,1.0,0.0,46.0,0.954
+Report-centered sweep,778089,off,1.0,0.0,25.0,0.975
+Report-centered sweep,778090,reliable,1.0,0.0,15.0,0.985
+Report-centered sweep,778091,scattered,1.0,0.0,99.0,0.9009999999999999
+Report-centered sweep,778092,burst5,1.0,0.0,13.0,0.987
+Report-centered sweep,778093,burst25,1.0,0.0,31.0,0.969
+Report-centered sweep,778094,off,1.0,0.0,34.0,0.966
+Report-centered sweep,778095,reliable,1.0,0.0,20.0,0.98
+Report-centered sweep,778096,scattered,1.0,0.0,11.0,0.989
+Report-centered sweep,778097,burst5,1.0,0.0,5.0,0.995
+Report-centered sweep,778098,burst25,1.0,0.0,45.0,0.955
+Report-centered sweep,778099,off,1.0,0.0,23.0,0.977
+Original MAPPO,778000,reliable,1.0,0.0,70.0,0.9299999999999999
+Original MAPPO,778001,scattered,1.0,0.0,17.0,0.983
+Original MAPPO,778002,burst5,1.0,0.0,72.0,0.9279999999999999
+Original MAPPO,778003,burst25,0.0,1.0,100.0,-1.0399999999999998
+Original MAPPO,778004,off,1.0,0.0,19.0,0.981
+Original MAPPO,778005,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778006,scattered,1.0,0.0,9.0,0.991
+Original MAPPO,778007,burst5,1.0,0.0,81.0,0.9189999999999999
+Original MAPPO,778008,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778009,off,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778010,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778011,scattered,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778012,burst5,1.0,0.0,27.0,0.973
+Original MAPPO,778013,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778014,off,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778015,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778016,scattered,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778017,burst5,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778018,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778019,off,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778020,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778021,scattered,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778022,burst5,1.0,0.0,21.0,0.979
+Original MAPPO,778023,burst25,1.0,0.0,18.0,0.982
+Original MAPPO,778024,off,1.0,0.0,11.0,0.989
+Original MAPPO,778025,reliable,1.0,0.0,22.0,0.978
+Original MAPPO,778026,scattered,1.0,0.0,8.0,0.992
+Original MAPPO,778027,burst5,1.0,0.0,20.0,0.98
+Original MAPPO,778028,burst25,1.0,0.0,11.0,0.989
+Original MAPPO,778029,off,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778030,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778031,scattered,0.0,1.0,100.0,-1.0839999999999999
+Original MAPPO,778032,burst5,0.0,1.0,100.0,-1.0679999999999998
+Original MAPPO,778033,burst25,1.0,0.0,20.0,0.98
+Original MAPPO,778034,off,1.0,0.0,7.0,0.993
+Original MAPPO,778035,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778036,scattered,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778037,burst5,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778038,burst25,1.0,0.0,17.0,0.983
+Original MAPPO,778039,off,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778040,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778041,scattered,1.0,0.0,8.0,0.992
+Original MAPPO,778042,burst5,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778043,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778044,off,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778045,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778046,scattered,1.0,0.0,9.0,0.991
+Original MAPPO,778047,burst5,1.0,0.0,22.0,0.978
+Original MAPPO,778048,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778049,off,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778050,reliable,1.0,0.0,7.0,0.993
+Original MAPPO,778051,scattered,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778052,burst5,1.0,0.0,11.0,0.989
+Original MAPPO,778053,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778054,off,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778055,reliable,1.0,0.0,2.0,0.998
+Original MAPPO,778056,scattered,1.0,0.0,50.0,0.95
+Original MAPPO,778057,burst5,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778058,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778059,off,1.0,0.0,8.0,0.992
+Original MAPPO,778060,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778061,scattered,1.0,0.0,3.0,0.997
+Original MAPPO,778062,burst5,1.0,0.0,14.0,0.986
+Original MAPPO,778063,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778064,off,1.0,0.0,8.0,0.992
+Original MAPPO,778065,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778066,scattered,1.0,0.0,8.0,0.992
+Original MAPPO,778067,burst5,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778068,burst25,1.0,0.0,6.0,0.994
+Original MAPPO,778069,off,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778070,reliable,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778071,scattered,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778072,burst5,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778073,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778074,off,0.0,1.0,100.0,-1.071
+Original MAPPO,778075,reliable,1.0,0.0,49.0,0.951
+Original MAPPO,778076,scattered,1.0,0.0,17.0,0.983
+Original MAPPO,778077,burst5,1.0,0.0,42.0,0.958
+Original MAPPO,778078,burst25,1.0,0.0,8.0,0.992
+Original MAPPO,778079,off,0.0,1.0,100.0,-1.0999999999999999
+Original MAPPO,778080,reliable,0.0,1.0,100.0,-1.029
+Original MAPPO,778081,scattered,1.0,0.0,87.0,0.9129999999999999
+Original MAPPO,778082,burst5,1.0,0.0,13.0,0.987
+Original MAPPO,778083,burst25,1.0,0.0,20.0,0.98
+Original MAPPO,778084,off,1.0,0.0,5.0,0.995
+Original MAPPO,778085,reliable,1.0,0.0,16.0,0.984
+Original MAPPO,778086,scattered,1.0,0.0,12.0,0.988
+Original MAPPO,778087,burst5,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778088,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778089,off,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778090,reliable,0.0,1.0,100.0,-1.0939999999999999
+Original MAPPO,778091,scattered,1.0,0.0,15.0,0.985
+Original MAPPO,778092,burst5,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778093,burst25,1.0,0.0,8.0,0.992
+Original MAPPO,778094,off,1.0,0.0,15.0,0.985
+Original MAPPO,778095,reliable,1.0,0.0,5.0,0.995
+Original MAPPO,778096,scattered,1.0,0.0,8.0,0.992
+Original MAPPO,778097,burst5,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778098,burst25,0.0,0.0,100.0,-0.10000000000000007
+Original MAPPO,778099,off,0.0,0.0,100.0,-0.10000000000000007
